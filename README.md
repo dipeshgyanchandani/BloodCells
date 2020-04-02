@@ -6,9 +6,8 @@ Feature Extraction and Classification of Blood Cells Using Image Processing — 
 ResNet Algorithm classifying blood cells into Parasitized and Uninfected. Model is being trained and tested with the total 6  images from test dataset. Model is predicting the class with the 87% accuracy.
 
 >>Feature Extraction from Blood Cell Images and Applied:
-  
-Feature Extraction from Blood Cells Images and applied Random Forest Classifier Algorithm:
-Feature Extraction includes the following:
+  >>Feature Extraction from Blood Cells Images and applied Random Forest Classifier Algorithm:
+  >>Feature Extraction includes the following:
 1.	GLCM Features:
 1.1. energy
 1.2. correlation
